@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[The Reflection]]></title>
         <description><![CDATA[The Reflection]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/simonoshea/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 01:06:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 01:06:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/simonoshea/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Timber towers could transform London's skyline]]></title>
+            <description><![CDATA[<article><h1>Timber towers could transform London's skyline</h1><p>Researchers have presented plans for London's first timber skyscraper to the Mayor of London Boris Johnson. The conceptual plans for an 80-storey, 300m high wooden building integrated within the Barbican, have been drawn up by researchers from Cambridge University's department of architecture, working with PLP Architecture and engineers Smith and Wallwork.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e43749f1faa20720092b0748403780b932119da.jpg"></article>]]></description>
+            <link>http://www.ttjonline.com/news/timber-towers-could-transform-londons-skyline-4859946/</link>
+            <guid isPermaLink="false">d47352f2-3dc3-449a-9f35-748f95564653</guid>
+            <pubDate>Tue, 26 Apr 2016 01:05:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Passive Houses Get Good Graphic Explanation]]></title>
             <description><![CDATA[<article><h1>Passive Houses Get Good Graphic Explanation</h1><p>The New York Times has a great graphic explanation of the principles of the Passive House, "airtight buildings that use heat from appliances and even the occupants' bodies for warmth." The Times notes that while they are popular in Germany and Scandinavia, they have not caught on in the US, where it seems that the "green gizmo" approach of adding photovoltaics and heat pumps rules over simplicity and efficiency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39bf7cb8c4365a5552def999b544129d84a19195.jpg"></article>]]></description>
