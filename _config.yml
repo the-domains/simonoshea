@@ -1,6 +1,6 @@
 name: simonoshea
 favicon: null
-layout_spectrum: 0.2538
+layout_spectrum: 0.06452
 typography_spectrum: 0.85223
 title: The Reflection
 cta:
@@ -22,8 +22,8 @@ color:
     - '#000000'
     - '#56596a'
     - '#018a68'
-  brandStrength: 0.5900505294557661
-  lightness: 0.3125
-  saturation: 0.25
-  rhythmicContrast: 0
+  brandStrength: 0.1875
+  lightness: 0.75
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose: []
