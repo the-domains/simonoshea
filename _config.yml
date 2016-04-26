@@ -1,0 +1,28 @@
+name: simonoshea
+favicon: null
+layout_spectrum: 0.5854568504728377
+typography_spectrum: 0.7768477604258806
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5900505294557661
+  lightness: 0.6730441888794303
+  saturation: 0.9773952811956406
+  rhythmicContrast: 0.4633018884342164
+purpose: []
