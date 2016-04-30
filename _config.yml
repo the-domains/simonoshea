@@ -1,29 +1,41 @@
-name: simonoshea
-favicon: null
-layout_spectrum: 0.73367
-typography_spectrum: 0.85223
-title: The Reflection
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.73367
+title: The Reflection
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.75
+  brandStrength: 0.25
+  rhythmicContrast: 0.5
   brandColors:
     - '#ffffff'
     - '#a2a4a3'
     - '#000000'
     - '#56596a'
     - '#018a68'
-  brandStrength: 0.25
   lightness: 0.5
-  saturation: 0.75
-  rhythmicContrast: 0.5
 purpose: []
+favicon: null
+name: simonoshea
+typography_spectrum: 0.85223
