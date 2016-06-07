@@ -1,7 +1,33 @@
-name: simonoshea
-favicon: null
-layout_spectrum: 0.73367
 typography_spectrum: 0.85223
+color:
+  brandColors:
+    - '#ffffff'
+    - '#a2a4a3'
+    - '#000000'
+    - '#56596a'
+    - '#018a68'
+  brandStrength: 0.25
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.73367
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: "Simon O'Shea"
+  url: www.simonoshea.com
+name: simonoshea
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -14,28 +40,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Reflection
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#a2a4a3'
-    - '#000000'
-    - '#56596a'
-    - '#018a68'
-  brandStrength: 0.25
-  lightness: 0.5
-  saturation: 0.75
-  rhythmicContrast: 0.5
+title: simonoshea
 purpose: []
